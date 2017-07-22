@@ -1,4 +1,4 @@
-# Ng4Gallery
+# Ng4Gallery (Pipe filter)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
